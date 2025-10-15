@@ -16,8 +16,8 @@ creating a *stereotypical gap* between majority and minority subgroups.
 
 ```text
 bias_amplification/
-├── models_scratch/ 
-├── src/              # core models, training, and evaluation code
+├── models_scratch/   # core models
+├── src/              # core training, and evaluation code
 ├── notebooks/        # analysis and visualization notebooks
 ├── results/         
 └── README.md
