@@ -1,0 +1,50 @@
+# === Python général ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === Notebooks Jupyter ===
+.ipynb_checkpoints/
+
+# === Environnements virtuels ===
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# === Données et artefacts lourds ===
+data/
+!data/.gitkeep
+*.tar.gz
+*.zip
+*.pk
+*.pt
+*.pth
+*.npy
+*.npz
+*.csv
+*.h5
+*.ckpt
+
+# === SLURM / Lancement de jobs ===
+launch/
+*.out
+*.err
+slurm-*.out
+slurm-*.err
+*.sbatch
+*.sh~
+logs/
+wandb/
+runs/
+outputs/
+checkpoints/
+
+# === Config / IDE / système ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
