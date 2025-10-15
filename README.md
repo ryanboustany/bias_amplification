@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Bias Amplification
 
 This repository follows the paper **"When Majority Rules, Minority Loses: Bias Amplification of Gradient Descent"**,  
