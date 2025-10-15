@@ -1,7 +1,7 @@
 # Bias Amplification
 
-This repository accompanies the paper **"When Majority Rules, Minority Loses: Bias Amplification of Gradient Descent"**,  
-by François Bachoc, Jérôme Bolte, Ryan Boustany, and Jean-Michel Loubes. 
+This repository provides the code and experiments for “When Majority Rules, Minority Loses: Bias Amplification of Gradient Descent”,
+by François Bachoc, Jérôme Bolte, Ryan Boustany, and Jean-Michel Loubes.
 
 Published at **NeurIPS 2025**.  
 📄 [Paper](https://arxiv.org/pdf/2505.13122)
@@ -21,7 +21,6 @@ bias_amplification/
 ├── notebooks/        # analysis and visualization notebooks
 ├── results/         
 └── README.md
----
 ```
 
 ## Reproducibility
